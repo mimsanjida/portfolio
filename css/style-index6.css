@@ -1,0 +1,25 @@
+@media only screen and (max-width: 600px){
+    body{
+        color: aqua;
+        margin: 0;
+        text-align: center;
+        font-family: 'Merriweather', serif;
+    }
+}
+
+h1{
+    color: aqua;
+    font-size: 5.625rem;
+    margin-top: 50px auto 0 auto;
+    font-family: 'Sacramento', cursive;
+}
+h2{
+    color: aqua;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 2.5rem;
+}
+
+h3{
+    color: aqua;
+    font-family: 'Montserrat, sans-serif';
+}
